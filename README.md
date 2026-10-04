@@ -1,7 +1,10 @@
 # Comprehensive Guide to Jenkins
 
 ## What is Jenkins?
-Jenkins is a popular, open-source automation server written in Java. It is primarily used to build, test, and deploy software, making it a foundational tool for Continuous Integration (CI) and Continuous Delivery/Deployment (CD). Jenkins acts as an orchestrator, automating the repetitive tasks involved in the software development lifecycle (SDLC) so teams can focus on writing code.
+Jenkins is a popular, open-source automation server written in Java. 
+It is primarily used to build, test, and deploy software, making it a foundational tool for Continuous Integration (CI) and Continuous Delivery/Deployment (CD). 
+
+Jenkins acts as an orchestrator, automating the repetitive tasks involved in the software development lifecycle (SDLC) so teams can focus on writing code.
 
 ## Benefits of Jenkins
 * **Accelerated Development:** Automates the build and deployment process, allowing developers to integrate changes and get feedback faster.
